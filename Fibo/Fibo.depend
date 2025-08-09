@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1750608058 source:e:\lab\fibo\main.c
+	<stdio.h>
+	<stdlib.h>
+

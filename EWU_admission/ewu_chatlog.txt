@@ -1,0 +1,31 @@
+[2025-06-28 17:06:22] User: hello
+[2025-06-28 17:06:22] Bot: Hello! Ask about EWU admissions, programs, or campus life.
+[2025-06-28 17:10:47] User: hi
+[2025-06-28 17:10:47] Bot: Assalamu Alaikum! Welcome to EWU admission help. How can I assist you?
+[2025-06-28 17:11:01] User: please give me the admission details
+[2025-06-28 17:11:01] Bot: The admission process at East West University requires:
+- Completed application form
+- SSC and HSC transcripts
+- 4 passport photos
+- National ID/Birth certificate copy
+Apply online through our admission portal.
+[2025-06-28 17:11:23] User: can you tell me the date of admission
+[2025-06-28 17:11:23] Bot: The admission process at East West University requires:
+- Completed application form
+- SSC and HSC transcripts
+- 4 passport photos
+- National ID/Birth certificate copy
+Apply online through our admission portal.
+[2025-06-28 17:11:36] User: date
+[2025-06-28 17:11:36] Bot: I'm not sure about that. Ask about:
+- Admission process
+- Academic programs
+- Fees/scholarships
+Visit www.ewubd.edu or call +880-2-9882308
+[2025-06-28 17:11:43] User: admission date
+[2025-06-28 17:11:43] Bot: The admission process at East West University requires:
+- Completed application form
+- SSC and HSC transcripts
+- 4 passport photos
+- National ID/Birth certificate copy
+Apply online through our admission portal.

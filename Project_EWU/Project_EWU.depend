@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1751107458 source:e:\lab\project_ewu\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<unordered_map>
+

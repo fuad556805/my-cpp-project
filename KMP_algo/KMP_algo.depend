@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1754068376 source:e:\lab\kmp_algo\lps.c
+	<string.h>
+
+1754068387 source:e:\lab\kmp_algo\kmp.c
+	<stdio.h>
+	<string.h>
+
+1754068325 source:e:\lab\kmp_algo\main.cpp
+	<stdio.h>
+

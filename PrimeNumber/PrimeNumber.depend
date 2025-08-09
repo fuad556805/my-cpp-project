@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1750607723 source:e:\lab\primenumber\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1750651490 source:e:\lab\primenumber\main.cpp
+	<iostream>
+
